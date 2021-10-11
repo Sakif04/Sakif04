@@ -3,7 +3,7 @@
 I am EEE graduate who is passionate about programming. I am currently learning about the field of web development and Data Analysis .
 
 
-Skills: REACT / JS / HTML / CSS/ Python
+Skills: REACT / JS / HTML / CSS/ Python/ Sass
 
 - 🔭 I’m currently working on learning React completely and trying to building a project with react. 
 
