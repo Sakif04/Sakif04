@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Sakif
+### Hi there 👋, I  am Sakif
 ### Programmer and a Engineer
-I am EEE graduate with great passion of programming & coding.I love to solve problems & learn new things everyday.I am currently learning about the field of web development and Data Analysis .
+I am EEE graduate with great passion of programming & coding. I love to solve problems & learn new things everyday.I am currently learning about the field of web development and Data Analysis .
 
 
 ## Languages: 
@@ -19,13 +19,11 @@ I am EEE graduate with great passion of programming & coding.I love to solve pro
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-
 <br />
-
 
 ## Certifications
 
-<img src='https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg' height='20px' alt='freecodecamp' />     Frontend Responsive website & Data structure with Javascript <br /><img alt='Python basics & OOP with python' height='26px'  src='https://miro.medium.com/max/1400/1*nXptoXWAiYrgd4QosyhUBg.png' />       Python & OOP with python
+<img src='https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg' height='20px' alt='freecodecamp' />     Frontend Responsive website & Data structure with Javascript <br /><img alt='Python basics & OOP with python'  height='40px'  src='https://miro.medium.com/max/1400/1*nXptoXWAiYrgd4QosyhUBg.png' />       Python & OOP with python
 <br />
 
 
