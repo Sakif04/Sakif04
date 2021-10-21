@@ -24,19 +24,13 @@ I am EEE graduate with great passion of programming & coding.I love to solve pro
 
 
 ## Certifications
-Frontend Responsive website & Data structure with Javascript <br />
-<img src='https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg' height='20px' alt='freecodecamp' />
 
+<img src='https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg' height='20px' alt='freecodecamp' />     Frontend Responsive website & Data structure with Javascript <br /><img alt='Python basics & OOP with python' height='26px'  src='https://miro.medium.com/max/1400/1*nXptoXWAiYrgd4QosyhUBg.png' />       Python & OOP with python
 <br />
 
-Python & OOP with python
-<br />
-<img alt='Python basics & OOP with python' height='26px'  src='https://miro.medium.com/max/1400/1*nXptoXWAiYrgd4QosyhUBg.png'>
 
-<br />
 
----
-
+## More About me
 - 🔭 I love solving problems
 - 📦 Fast learner with critical Thinking
 - 🌱 I’m currently learning React 
@@ -45,5 +39,6 @@ Python & OOP with python
 - ⚡ Fun fact: I love to watch & play football
 
 ## Contacts
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sakif04)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sakif-rafid-7289a6206/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='margin-right:12px'>](https://github.com/Sakif04)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sakif-rafid-7289a6206/)
 
