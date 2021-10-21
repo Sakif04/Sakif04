@@ -22,10 +22,16 @@ I am EEE graduate with great passion of programming & coding.I love to solve pro
 
 <br />
 
-##Certifications
-FrontEnd responsive website & Data structure with Javascript
-<img src='https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg' height='26px' alt='freecodecamp' />
 
+## Certifications
+Frontend Responsive website & Data structure with Javascript <br />
+<img src='https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg' height='20px' alt='freecodecamp' />
+
+<br />
+
+Python & OOP with python
+<br />
+<img alt='Python basics & OOP with python' height='26px'  src='https://miro.medium.com/max/1400/1*nXptoXWAiYrgd4QosyhUBg.png'>
 
 <br />
 
