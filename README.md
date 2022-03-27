@@ -33,7 +33,7 @@ I am EEE graduate with great passion of programming & coding. I love to solve pr
 - 📦 Fast learner with critical Thinking
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goal: Learn & build a complete website all by myself
+- 🥅 2022 Goal: Become a creative problem Solver with an high aptitude.
 - ⚡ Fun fact: I love to watch & play football
 
 ## Contacts
