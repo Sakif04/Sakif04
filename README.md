@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 ### Programmer and a Engineer
-I am graduate with great passion of programming & coding. I love to solve problems & learn new things everyday.I am currently learning about the field of web development and Data Analysis .
+I am a software engineer with great passion of programming & coding. I love to solve problems & learn new things everyday.I am currently learning about the field of web development and Data Analysis .
 
 
 ## Languages: 
