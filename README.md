@@ -38,5 +38,5 @@ I am a Electrical engineer with great passion of programming & coding. I love to
 
 ## Contacts
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='margin-right:12px'>](https://github.com/Sakif04)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mushfiqur-rahman-chowdhury-2644071b9/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]((https://www.linkedin.com/in/sakif-rafid-7289a6206/))
 
